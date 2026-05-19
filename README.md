@@ -1,5 +1,10 @@
 # Projet IA — IFOAD : Classification des maladies cardiaques ❤️
 
+> ## 🌐 Application en ligne
+> **➡️ https://cardio-predictor-ml.streamlit.app/**
+>
+> L'application Streamlit est déployée et accessible directement via le lien ci-dessus.
+
 **Cours** : Intelligence Artificielle et Apprentissage Automatique — Dr Arthur Sawadogo
 **Dataset** : [Heart Disease UCI (id=45)](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
